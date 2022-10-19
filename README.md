@@ -1,4 +1,4 @@
-<img align="center" src="https://www.hsbs.com.br/wp-content/uploads/2018/12/ti_2019.png"> 
+<img align="center" src="https://images7.alphacoders.com/122/1228014.png"> 
 <br>
 
 ***Sejam bem vindos ao repositorio***
