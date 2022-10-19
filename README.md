@@ -1,6 +1,14 @@
-# 
-<h2>Sejam bem vindos ao repositorio!</h2><br>
-<img src="https://www.hsbs.com.br/wp-content/uploads/2018/12/ti_2019.png" style="width:500px;height:350px alt="<p style="text-align:left;">Interessado por tecnologia, gosto de desafios, aprender novos  processos, novas tecnologias e compartilhar conhecimento, atualmente tenho me empenhado a construir minha carreira na área de tecnologia, estou finalizando meu ensino superior em ciência da computação, nas horas vagas fico colocando em prática meus conhecimentos. Aqui verão alguns **projetos** públicos de minha autoria**:</p>"
+<img align="left" src="https://www.hsbs.com.br/wp-content/uploads/2018/12/ti_2019.png"> 
+##Sejam bem vindos ao repositorio!
+
+<br>
+
+Interessado por tecnologia, gosto de desafios, aprender novos  processos, novas tecnologias e compartilhar conhecimento, atualmente tenho me empenhado a construir minha carreira na área de tecnologia, estou finalizando meu ensino superior em ***ciência da computação***, nas horas vagas fico colocando em prática meus conhecimentos. Aqui verão alguns **projetos** públicos de minha autoria**:</p>"
+
+- [Aritmetica-exercicio](https://github.com/TH-oliveir/Aritm-tica-menor-e-maior) - Exercicio de aritmetica onde comparo elementos, feito em Java
+- [Sys-sales](https://github.com/TH-oliveir/Sys-sales) - Aplicação que simula um sistema de vendas, feito em Java
+- [Tecnoblog](https://github.com/TH-oliveir/Tecnoblog) - site em formato de blog, feito com HTML/CSS 
+
 
 [linkedin](linkedin.com/in/thpoliveir5)<p>Contato profissional.</p>
 
