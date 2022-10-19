@@ -17,3 +17,4 @@ Interessado por tecnologia, gosto de desafios, aprender novos  processos, novas 
 <p>Interested in technology, I like challenges, learning new processes, new technologies and sharing knowledge, currently I have been striving to build my career in the area of technology, I am finishing my higher education in computer science, in my spare time I am putting my knowledge into practice . Here you will see some public projects of my authorship.</p>
 
 [linkedin](linkedin.com/in/thpoliveir5) - Contact.
+<img src="https://i.imgur.com/bDqdBCy.gif">
