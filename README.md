@@ -1,8 +1,7 @@
 <img align="center" src="https://www.hsbs.com.br/wp-content/uploads/2018/12/ti_2019.png"> 
 <br>
-***Sejam bem vindos ao repositorio!***
 
-<br>
+***Sejam bem vindos ao repositorio***
 
 Interessado por tecnologia, gosto de desafios, aprender novos  processos, novas tecnologias e compartilhar conhecimento, atualmente tenho me empenhado a construir minha carreira na área de tecnologia, estou finalizando meu ensino superior em ***ciência da computação***, nas horas vagas fico colocando em prática meus conhecimentos. Aqui verão alguns **projetos** públicos de minha autoria**:</p>"
 
