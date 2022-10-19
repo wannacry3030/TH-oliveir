@@ -1,5 +1,5 @@
 <img align="center" src="https://www.hsbs.com.br/wp-content/uploads/2018/12/ti_2019.png"> 
-### Sejam bem vindos ao repositorio!
+***Sejam bem vindos ao repositorio!***
 
 <br>
 
@@ -10,10 +10,10 @@ Interessado por tecnologia, gosto de desafios, aprender novos  processos, novas 
 - [Tecnoblog](https://github.com/TH-oliveir/Tecnoblog) - site em formato de blog, feito com HTML/CSS 
 
 
-[linkedin](linkedin.com/in/thpoliveir5)Contato profissional.
+[linkedin](linkedin.com/in/thpoliveir5) - Contato profissional.
 
 
 
 <p>Interested in technology, I like challenges, learning new processes, new technologies and sharing knowledge, currently I have been striving to build my career in the area of technology, I am finishing my higher education in computer science, in my spare time I am putting my knowledge into practice . Here you will see some public projects of my authorship.</p>
 
-[linkedin](linkedin.com/in/thpoliveir5)Contact.
+[linkedin](linkedin.com/in/thpoliveir5) - Contact.
