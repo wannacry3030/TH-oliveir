@@ -1,4 +1,4 @@
-<img align="center" height="50%" width="50%" src="https://images7.alphacoders.com/122/1228014.png"> 
+<img align="center" height="70%" width="70%" src="https://images7.alphacoders.com/122/1228014.png"> 
 <br>
 
 ***Sejam bem vindos ao repositorio***
