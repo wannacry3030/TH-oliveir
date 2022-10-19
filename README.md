@@ -3,7 +3,7 @@
 
 ***Sejam bem vindos ao repositorio***
 
-Interessado por tecnologia, gosto de desafios, aprender novos  processos, novas tecnologias e compartilhar conhecimento, atualmente tenho me empenhado a construir minha carreira na área de tecnologia, estou finalizando meu ensino superior em ***ciência da computação***, nas horas vagas fico colocando em prática meus conhecimentos. Aqui verão alguns **projetos** públicos de minha autoria**:</p>"
+Interessado por tecnologia, gosto de desafios, aprender novos  processos, novas tecnologias e compartilhar conhecimento, atualmente tenho me empenhado a construir minha carreira na área de tecnologia, estou finalizando meu ensino superior em ***ciência da computação***, nas horas vagas fico colocando em prática meus conhecimentos. Aqui verão alguns **projetos** públicos de minha autoria:</p>
 
 - [Aritmetica-exercicio](https://github.com/TH-oliveir/Aritm-tica-menor-e-maior) - Exercicio de aritmetica onde comparo elementos, feito em Java
 - [Sys-sales](https://github.com/TH-oliveir/Sys-sales) - Aplicação que simula um sistema de vendas, feito em Java
